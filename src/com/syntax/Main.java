@@ -13,10 +13,18 @@ public class Main {
         solana.heat = "677777j";
         solana.radius = "327687428736";
         solana.temp = "1224566C";
+
+
+        //planet2features
+        Planet2 platypus=new Planet2();
+        platypus.color="pink";
+        platypus.size="54778787887kms";
+
         //adding planet1 features
         PLanet1 narwhal=new PLanet1();
         narwhal.color="green";
         narwhal.size="1234566788888km";
+
 
     }
 }
